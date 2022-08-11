@@ -1,0 +1,2 @@
+# poti
+potshi mecadineoba
